@@ -82,3 +82,14 @@ input[type=button] {
 	margin: 2em 0;
 }
 
+.recuperado{
+    background:#FE0;
+}
+
+.hovering{
+    background: #ccc;
+}
+
+#mostra-propagandas{ 
+    display:none;
+}
